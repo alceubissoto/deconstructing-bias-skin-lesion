@@ -25,4 +25,13 @@ All the exact splits used are available in folders `atlas-csv` and `isic-csv`.
 To train and evaluate the network, refer to the scripts `run_isic_7030_all.sh` and `run_isic_rgbm_7030.sh`.
 
 ## Citation
-Soon!
+```
+@inproceedings{bissoto19deconstructing,
+ author    = {Alceu Bissoto and Michel Fornaciali and Eduardo Valle and Sandra Avila},
+ title     = {({D}e){C}onstructing Bias on Skin Lesion Datasets},
+ booktitle = {ISIC Skin Image Anaylsis Workshop, 2019 {IEEE} Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+ year      = {2019},
+}
+```
+## Acknowledgments
+A. Bissoto and S. Avila are partially funded Google LARA 2018. A. Bissoto is also partially funded by CNPq. E. Valle is partially funded by a CNPq PQ-2 grant (311905/2017-0). This work was funded by grants from CNPq (424958/2016-3), FAPESP (2017/16246-0) and FAEPEX (3125/17). The RECOD Lab receives addition funds from FAPESP, CNPq, and CAPES. We gratefully acknowledge NVIDIA for the donation of GPU hardware.
