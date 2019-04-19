@@ -1,7 +1,6 @@
 # deconstructing-bias-skin-lesion
 
-Code to reproduce the results for the paper "(De)Constructing Bias on Skin Lesions Datasets" in ISIC Skin Image Analysis Workshop
-@ CVPR 2019. Link to the paper soon.
+Code to reproduce the results for the paper "(De)Constructing Bias on Skin Lesions Datasets" in ISIC Skin Image Analysis Workshop @ CVPR 2019. [Link to the paper.](https://arxiv.org/pdf/1904.08818.pdf)
 
 # Preparing data and environment
 ### Configuring the container.
